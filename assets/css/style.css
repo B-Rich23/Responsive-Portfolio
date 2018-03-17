@@ -416,11 +416,15 @@ nav {
     margin-bottom: 30px;
   }
 
+  .liri {
+    padding-bottom: 10px;
+  }
   /*The footer will stay on the bottom and take up 87% of the width of the body*/
   footer {
     margin-left: 148px;
     margin-right: 125px;
     min-width: 56%;
+    margin-bottom: 5px;
     
   }
 
